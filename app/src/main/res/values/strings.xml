@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Պարապ վախտի խաղալիք</string>
+    <string name="barev">Բարեւ!</string>
+    <string name="tictactoe">RazApp Edition</string>
+    <string name="Welcome_Text">Just click on Circle and you will see the magic...
+    </string>
+    <string name="_1_0">Խաղացող 1: 0</string>
+    <string name="_2_0">Խաղացող 2: 0</string>
+    <string name="reset">ՆՈՐԻՑ</string>
+    <string name="razapp">RazApp</string>
+    <string name="edition">Edition</string>
+
+
+</resources>
